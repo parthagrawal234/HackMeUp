@@ -168,4 +168,4 @@ pwn.college{I5OhQXodW7laR675v0e3-ElPxSz.QX0MzM4EDLzQjN1czW}
 ```
 
 ## Solution
-This challenge has some issues i see a process /challenge/decoy sending decoy flags to the /tmp/flag_fifo fifo file and this makes problem for me to get the flag from /challenge/run so i kill see the process and it is with PID 142 i kill it then run /challenge/run which prints the flag on fifo but the old buffer also comes through so i run it again and cat in another flag to get the flag
+This challenge has some issues i see a process /challenge/decoy sending decoy flags to the /tmp/flag_fifo fifo file and this makes problem for me to get the flag from /challenge/run so i kill see the process and it is with PID 142 i kill it then run /challenge/run which prints the flag on fifo but the old buffer also comes through so i run it again and cat in another terminal to get the flag
