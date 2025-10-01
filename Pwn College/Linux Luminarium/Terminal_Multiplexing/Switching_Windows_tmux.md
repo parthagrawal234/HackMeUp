@@ -34,5 +34,14 @@ Excellent work! You found window 0!
 Here is your flag: pwn.college{MmBn068Yu1za_10wyXVxVJMtoXm.QXwkjM4EDLzQjN1czW}
 hacker@terminal-multiplexing~switching-windows-tmux:~$
 ```
+### Terminal
+```bash
+Connected!
+hacker@terminal-multiplexing~switching-windows-tmux:~$ tmux ls
+\challenge_session: 2 windows (created Wed Oct  1 09:15:18 2025)
+hacker@terminal-multiplexing~switching-windows-tmux:~$ tmux attach
+[exited]
+hacker@terminal-multiplexing~switching-windows-tmux:~$
+```
 
 I used `Ctrl-B 0` to switch to window 0 after attaching myself to screen using `tmux attach`
