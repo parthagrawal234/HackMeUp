@@ -1,4 +1,4 @@
-# Dettaching and Reattaching
+# Dettaching and Attaching (Tmux)
 For this challenge:
 
 Launch tmux
