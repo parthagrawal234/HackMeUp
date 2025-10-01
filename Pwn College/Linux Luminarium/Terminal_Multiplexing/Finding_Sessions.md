@@ -1,5 +1,5 @@
 # Finding Session
-
+In this challenge, we've created three screen sessions for you. One of them contains the flag. The other two are decoys!
 
 ### Screen 1
 ```bash
